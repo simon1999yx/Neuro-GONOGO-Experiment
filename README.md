@@ -4,3 +4,5 @@ Use Main to run in python, make sure to configure the necessary runtime environm
 Two examples
 Txt file is a case that will automatically record the click time and mouse position after running. 
 Please note that the record is based on the time zone to the exact milliseconds, you need to manually clean up!
+
+Full script uploaded in Issues(same project)
